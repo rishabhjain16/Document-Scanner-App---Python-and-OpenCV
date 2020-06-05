@@ -13,6 +13,7 @@ Step 3: Apply a perspective transform to obtain the top-down view of the documen
 Put all the files in single folder and run scan.py using python or CMD
 
 Example: python3 scan.py --image /image/example.jpg
+
 Note: Make sure to have an appropriate image for testing - see the image folder
 
 ## Acknowledgement:
