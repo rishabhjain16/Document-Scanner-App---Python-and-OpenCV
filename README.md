@@ -21,6 +21,14 @@ Note: Make sure to have an appropriate image for testing - see the image folder
 www.pyimagesearch.com/
 
 ## Example Images:
+
+### Step 1:
 ![Step 1](https://github.com/rishabhjain16/Document-Scanner-App---Python-and-OpenCV/blob/master/images/step1.png)
+
+
+### Step 2:
 ![Step 2](https://github.com/rishabhjain16/Document-Scanner-App---Python-and-OpenCV/blob/master/images/step2.png)
+
+
+### Step 3:
 ![Step 3](https://github.com/rishabhjain16/Document-Scanner-App---Python-and-OpenCV/blob/master/images/step3.png)
