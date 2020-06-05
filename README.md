@@ -21,6 +21,6 @@ Note: Make sure to have an appropriate image for testing - see the image folder
 www.pyimagesearch.com/
 
 ## Example Images:
-![Example 1 - Predicting number 2](https://github.com/rishabhjain16/Handwriting-Prediction-GUI-using-MNIST-Dataset/blob/master/Example%201.PNG)
-![Example 2 - Predicting number 8](https://github.com/rishabhjain16/Handwriting-Prediction-GUI-using-MNIST-Dataset/blob/master/Example%202.PNG)
-![Example 3 - Predicting number 7](https://github.com/rishabhjain16/Handwriting-Prediction-GUI-using-MNIST-Dataset/blob/master/Example%204.PNG)
+![Step 1](https://github.com/rishabhjain16/Document-Scanner-App---Python-and-OpenCV/blob/master/images/step1.png)
+![Step 2](https://github.com/rishabhjain16/Document-Scanner-App---Python-and-OpenCV/blob/master/images/step2.png)
+![Step 3](https://github.com/rishabhjain16/Document-Scanner-App---Python-and-OpenCV/blob/master/images/step3.png)
