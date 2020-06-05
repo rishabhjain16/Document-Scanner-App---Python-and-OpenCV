@@ -1,8 +1,9 @@
 # Document Scanner App using Python and OpenCV
 
-Step 1: Detect edges.
-Step 2: Use the edges in the image to find the contour (outline) representing the piece of paper being scanned.
-Step 3: Apply a perspective transform to obtain the top-down view of the document.
+## Steps:
+1. Detect edges.
+2. Use the edges in the image to find the contour (outline) representing the piece of paper being scanned.
+3. Apply a perspective transform to obtain the top-down view of the document.
 
 ## Prerequisites before using this software :
 1. Python
